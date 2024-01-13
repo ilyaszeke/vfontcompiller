@@ -2,7 +2,7 @@ VALVE VFONT COMPILER
 en:
 How to use vfont compiler?
 
-1: Download compiler
+1. Download compiler
 2. Open cmd
 3. Type: cd (your font compiler location)
 4. Type: vfont_decompiler.exe (your ttf file. example: valvefont.ttf)
